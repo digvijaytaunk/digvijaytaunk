@@ -35,10 +35,6 @@ I am a Data science and Machine Learning enthusiast <img src="https://media.giph
 
 - :zap: In my free time, I develop hobby projects and read tech articles.
 
-- :mailbox:How to reach me:   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
