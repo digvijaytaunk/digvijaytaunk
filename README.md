@@ -12,10 +12,9 @@
   </a>
 </div>
 
-<!-- Uncomment this when profile is ready. Before that it increases count if I see it. -->
-<!-- <div id="views" align="center">
+<div id="views" align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=digvijaytaunk&style=flat-square&color=blue" alt="digvijaytaunk"/>
-</div> -->
+</div> 
 
 <h1 align="center">Hi there 👋</h1>
 
